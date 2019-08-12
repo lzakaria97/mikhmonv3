@@ -1,1 +1,1 @@
-<?php $genu="up-738-07.03.19-|~30-Hari~30d~30000~0~0~Disable";?>
+<?php $genu="up-961-08.06.19-|~7-Hari~7d~10000~7d~0~Disable";?>
